@@ -6,7 +6,7 @@ Install [Soap](https://www.php.net/manual/en/book.soap.php) within your [Chassis
 
 ### Automated Installation
 
-To add the BC Math extension to a Chassis box, include `soap` in the `extensions` list within your `config.local.yaml` file:
+To add the SOAP extension to a Chassis box, include `soap` in the `extensions` list within your `config.local.yaml` file:
 
 ```yml
 extensions:
